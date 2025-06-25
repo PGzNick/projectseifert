@@ -1,0 +1,16 @@
+# Arquivos de usuário e cache do Visual Studio
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+
+# Pastas de compilação
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+
+# Outros
+.vs/
